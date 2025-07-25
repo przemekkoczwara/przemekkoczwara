@@ -6,7 +6,7 @@
 🚀 About Me
 
 👋 Hi, I’m PRZEMYSLAW (shorthand PRZEMEK or if you want tell me Bob/Spike 😂) for many years, I worked in logistics, but I decided to switch careers and dive into the world of programming.
-My frontend journey started with the basics – HTML, CSS, and RWD. Currently, I'm focusing on JavaScript, and my next goal is mastering React, one of the most popular frameworks today.
+My frontend journey started with the basics – HTML, CSS, and RWD. Currently, I'm focusing on JavaScript, and my next goal is mastering React, one of the most popular library today.
 
 🔹 Tech stack I'm learning and using:
 
