@@ -1,35 +1,49 @@
-✈️ From Logistics to Frontend – My Journey into IT
+# 🚀 Junior Frontend Developer | JavaScript | React | HTML & CSS
 
+## 👤 About Me
+My name is **Przemysław Koczwara**.  
+After many years in logistics, I decided to switch careers and become a frontend developer.  
+I completed an intensive **160-hour JavaScript Developer bootcamp** covering:  
+- Advanced HTML & CSS  
+- SASS / SCSS & Responsive Web Design  
+- JavaScript (ES6)  
+- React  
 
+I am focused on developing my skills to build modern, responsive web applications.  
+I see work as a **means to gain experience and resources** that allow me to pursue personal projects and passions.  
 
+---
 
-🚀 About Me
+## 🛠️ Tech Stack
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-👋 Hi, I’m PRZEMYSLAW (shorthand PRZEMEK or if you want tell me Bob/Spike 😂) for many years, I worked in logistics, but I decided to switch careers and dive into the world of programming.
-My frontend journey started with the basics – HTML, CSS, and RWD. Currently, I'm focusing on JavaScript, and my next goal is mastering React, one of the most popular library today.
+---
 
-🔹 Tech stack I'm learning and using:
+## 🎯 Goals
+- Build modern, responsive, and scalable frontend applications  
+- Deepen expertise in React and advanced JavaScript  
+- Collaborate with teams on real-world projects  
 
-- 🏗️ HTML, CSS (including RWD,Flex & Grid)
-- 🎨 SCSS
-- 🚀 JavaScript (currently learning)
-- 🔜 React (next step on my roadmap)
+---
 
-🎯 My Goals
-- Building modern, responsive websites
-- Mastering JavaScript and its advanced concepts
-- Learning React and developing dynamic web applications
+## 💻 Projects / Demo
 
-📌 Interested in collaboration or networking?
+### CrossWOD Generator (React)
+🌐 [Live Demo](https://przemekkoczwara.github.io/crosswod-generator/) | 🔗 [GitHub Repo](https://github.com/przemekkoczwara/crosswod-generator)  
+A React application for planning and tracking Crossfit training sessions.  
+Demonstrates component-based architecture, state management, and dynamic content generation.  
+A practical project showcasing my React skills in real-world use.
 
- 🤝 I’m looking to collaborate on frontend projects where I can apply my skills and continue learning. I believe that hard work pays off, and I’m confident that I’ll find a great place to grow and learn from the best.
+---
 
- Feel free to reach out! 🚀
+## 📌 Looking for
+Opportunities and projects as a **Junior Frontend Developer**, where I can apply my skills and continue growing.  
 
-
-
-📍 Location: [Cracow / Poland]
-<!---
-przemekkoczwara/przemekkoczwara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📍 Cracow, Poland  
