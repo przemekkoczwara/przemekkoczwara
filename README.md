@@ -1,16 +1,14 @@
-# 🚀 Junior Frontend Developer | JavaScript | React | HTML & CSS
+# 🚀 Junior Frontend Developer | React | JavaScript | HTML & CSS
 
 ## 👤 About Me
-My name is **Przemysław Koczwara**.  
-After many years in logistics, I decided to switch careers and become a frontend developer.  
-I completed an intensive **160-hour JavaScript Developer bootcamp** covering:  
+Hi, I’m a frontend developer passionate about building modern and responsive web applications.  
+I completed an intensive **JavaScript Developer bootcamp ** covering:  
 - Advanced HTML & CSS  
 - SASS / SCSS & Responsive Web Design  
-- JavaScript (ES6)  
+- JavaScript (ES6+)  
 - React  
 
-I am focused on developing my skills to build modern, responsive web applications.  
-I see work as a **means to gain experience and resources** that allow me to pursue personal projects and passions.  
+I’m continuously developing my skills and enjoy working on projects that combine **clean code, performance, and great user experience**.  
 
 ---
 
@@ -29,7 +27,7 @@ I see work as a **means to gain experience and resources** that allow me to purs
 ## 🎯 Goals
 - Build modern, responsive, and scalable frontend applications  
 - Deepen expertise in React and advanced JavaScript  
-- Collaborate with teams on real-world projects  
+- Collaborate on real-world projects with a focus on clean UX/UI  
 
 ---
 
@@ -38,12 +36,13 @@ I see work as a **means to gain experience and resources** that allow me to purs
 ### CrossWOD Generator (React)
 🌐 [Live Demo](https://przemekkoczwara.github.io/crosswod-generator/) | 🔗 [GitHub Repo](https://github.com/przemekkoczwara/crosswod-generator)  
 A React application for planning and tracking Crossfit training sessions.  
-Demonstrates component-based architecture, state management, and dynamic content generation.  
-A practical project showcasing my React skills in real-world use.
+- Component-based architecture  
+- State management for customizable workouts  
+- Dynamic content generation with clean UI  
 
 ---
 
 ## 📌 Looking for
 Opportunities and projects as a **Junior Frontend Developer**, where I can apply my skills and continue growing.  
 
-📍 Cracow, Poland  
+📍 Cracow, Poland
