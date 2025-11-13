@@ -1,7 +1,7 @@
 # 🚀 Junior Frontend Developer | React | JavaScript | HTML & CSS
 
 ## 👤 About Me
-Hi, I’m a frontend developer passionate about building modern and responsive web applications.  
+Hi, I’m a junior frontend developer passionate about building modern and responsive web applications.  
 I completed an intensive **JavaScript Developer bootcamp ** covering:  
 - Advanced HTML & CSS  
 - SASS / SCSS & Responsive Web Design  
