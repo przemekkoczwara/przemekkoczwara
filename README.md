@@ -1,6 +1,7 @@
 🧪 Manual QA Tester | ISTQB Foundation Level | Postman | SQL | JavaScript
 
 👤 About Me
+
 Transitioning into QA with 8+ years of operational background in e-commerce 
 and logistics. ISTQB Foundation Level certified with hands-on experience 
 in API testing using Postman, SQL and basic JavaScript/React knowledge.
@@ -29,6 +30,7 @@ in API testing using Postman, SQL and basic JavaScript/React knowledge.
 🧪 Tester Manualny | ISTQB Foundation Level | Postman | SQL | JavaScript
 
 👤 O mnie
+
 Przebranżawiam się na QA z 8+ letnim doświadczeniem operacyjnym 
 w e-commerce i logistyce. Certyfikat ISTQB Foundation Level, 
 praktyczna nauka testowania API w Postmanie, znajomość SQL 
